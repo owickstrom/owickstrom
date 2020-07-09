@@ -1,9 +1,4 @@
-<center>
-<h1>Oskar Wickström</h1>
-<p><em>Software design, testing, functional programming</em></p>
-
-<hr />
-</center>
+![Banner](banner.png)
 
 Hi! My name is Oskar, and this is where you'll most of my programming
 projects (see _Pinned_ below). Here's an overview of stuff I'm working on, or
