@@ -1,16 +1,29 @@
-### Hi there 👋
+<center>
+<h1>Oskar Wickström</h1>
+<p><em>Software design, testing, functional programming</em></p>
 
-<!--
-**owickstrom/owickstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
+</center>
 
-Here are some ideas to get you started:
+Hi! My name is Oskar, and this is where you'll most of my programming
+projects (see _Pinned_ below). Here's an overview of stuff I'm working on, or
+have worked on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗒️ [My blog](https://wickstrom.tech/writing.html), with some highlights:
+
+- [The TodoMVC Showdown: Testing with WebCheck](https://wickstrom.tech/programming/2020/07/02/the-todomvc-showdown-testing-with-webcheck.html)
+- [Time Travelling and Fixing Bugs with Property-Based Testing](https://wickstrom.tech/programming/2019/11/17/time-travelling-and-fixing-bugs-with-property-based-testing.html)
+- [Writing a Screencast Video Editor in Haskell](https://wickstrom.tech/programming/2018/10/26/writing-a-screencast-video-editor-in-haskell.html)
+
+🎤 [Conference talks](https://wickstrom.tech/talks.html)
+
+📖 [Property-Based Testing in a Screencast Editor](https://leanpub.com/property-based-testing-in-a-screencast-editor)
+
+🧪 [WebCheck: High-confidence browser testing](https://webcheck.tools/)
+
+📽️ [Komposition: The video editor built for screencasters](https://owickstrom.github.io/komposition/)
+
+## ❤️ Support
+
+If you'd like to support any of my work, and treat yourself to an inspiring
+read about property-based testing, please buy [the book](https://leanpub.com/property-based-testing-in-a-screencast-editor) ($10 or higher if you'd like).
