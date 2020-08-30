@@ -14,7 +14,7 @@ have worked on:
 
 📖 [Property-Based Testing in a Screencast Editor](https://leanpub.com/property-based-testing-in-a-screencast-editor)
 
-🧪 [WebCheck: High-confidence browser testing](https://webcheck.tools/)
+🧪 [Quickstrom: High-confidence browser testing](https://quickstrom.io/)
 
 📽️ [Komposition: The video editor built for screencasters](https://owickstrom.github.io/komposition/)
 
