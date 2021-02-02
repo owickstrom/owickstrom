@@ -1,6 +1,6 @@
-![Banner](https://github.com/owickstrom/owickstrom/raw/master/banner.png)
+# Hi! My name is Oskar.
 
-Hi! My name is Oskar, and this is where you'll most of my programming
+This is where you'll most of my programming
 projects (see _Pinned_ below). Here's an overview of stuff I'm working on, or
 have worked on:
 
