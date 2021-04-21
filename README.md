@@ -20,7 +20,9 @@ have worked on:
 
 ## ❤️ Support
 
-If you'd like to support any of my work, and treat yourself to an inspiring
-read about property-based testing, please buy [the book](https://leanpub.com/property-based-testing-in-a-screencast-editor) ($10 or higher if you'd like).
+If you'd like to support my work (mainly Quickstrom):
+
+* [Become a sponsor](https://github.com/sponsors/owickstrom)
+* Treat yourself to an inspiring read about property-based testing: [buy the book](https://leanpub.com/property-based-testing-in-a-screencast-editor) (>= $10)
 
 Follow me [on Twitter](https://twitter.com/owickstrom) for various updates.
