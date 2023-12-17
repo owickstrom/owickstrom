@@ -12,6 +12,8 @@ have worked on:
 
 🎤 [Conference talks](https://wickstrom.tech/talks.html)
 
+🦑 [Squidler: Quality Made Easy](https://squidler.io/)
+
 📖 [Property-Based Testing in a Screencast Editor](https://leanpub.com/property-based-testing-in-a-screencast-editor)
 
 🧪 [Quickstrom: High-confidence browser testing](https://quickstrom.io/)
