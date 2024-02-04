@@ -4,7 +4,7 @@ This is where you'll most of my programming
 projects (see _Pinned_ below). Here's an overview of stuff I'm working on, or
 have worked on:
 
-🗒️ [My blog](https://wickstrom.tech/writing.html), with some highlights:
+🗒️ [My blog](https://wickstrom.tech), with some highlights:
 
 - [The TodoMVC Showdown: Testing with WebCheck](https://wickstrom.tech/programming/2020/07/02/the-todomvc-showdown-testing-with-webcheck.html)
 - [Time Travelling and Fixing Bugs with Property-Based Testing](https://wickstrom.tech/programming/2019/11/17/time-travelling-and-fixing-bugs-with-property-based-testing.html)
