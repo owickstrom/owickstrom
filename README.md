@@ -12,19 +12,12 @@ have worked on:
 
 🎤 [Conference talks](https://wickstrom.tech/talks.html)
 
-🦑 [Squidler: Quality Made Easy](https://squidler.io/)
-
 📖 [Property-Based Testing in a Screencast Editor](https://leanpub.com/property-based-testing-in-a-screencast-editor)
 
 🧪 [Quickstrom: High-confidence browser testing](https://quickstrom.io/)
 
 📽️ [Komposition: The video editor built for screencasters](https://owickstrom.github.io/komposition/)
 
-## ❤️ Support
-
-If you'd like to support my work (mainly Quickstrom):
-
-* [Become a sponsor](https://github.com/sponsors/owickstrom)
-* Treat yourself to an inspiring read about property-based testing: [buy the book](https://leanpub.com/property-based-testing-in-a-screencast-editor) (>= $10)
+Treat yourself to an inspiring read about property-based testing: [buy the book](https://leanpub.com/property-based-testing-in-a-screencast-editor) (>= $10)
 
 Follow me [on Twitter](https://twitter.com/owickstrom) for various updates.
